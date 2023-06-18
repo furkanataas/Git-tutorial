@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 
 This is the test repository that will not be used in production.
 
-
+This is a code `conda install`
